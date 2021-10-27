@@ -1,0 +1,68 @@
+.yellow{
+    color: yellow;
+}
+h1{
+    text-align: center;
+}
+img{
+    width: 200px;
+    border-radius: 50%;
+}
+
+.left {
+    width: 25%;
+    box-shadow: -2px 5px 15px 5px #000000;
+    background-color: rgb(255, 0, 191);
+    margin: 10px 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 10%;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    border-bottom-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+}
+
+th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    
+}
+
+table {
+    width: 100%;
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+.right{
+    width: 70%;
+    box-shadow: -2px 5px 15px 5px #000000;
+    background-color: rgb(255, 0, 234);
+    margin: 10px 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border-radius: 10%;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    border-bottom-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+ }
+ h2{
+    font-family: 'Akronim', cursive;
+ }

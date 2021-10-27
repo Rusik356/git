@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(9, 255, 0);
+    text-align: center;
+}
+.img{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}

@@ -1,0 +1,26 @@
+img {
+    width: 80px;
+}
+h2{
+    text-align: center;
+}
+table{
+    width: 100%;
+    height: 80vh;
+    border: 2px solid;
+    color: rgb(5, 10, 10);
+    border-collapse: collapse;
+    background: rgb(255, 255, 255);
+ background: rgb(0, 0, 0);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(14,255,0,1) 0%, rgba(0,212,255,1) 100%);;
+}
+th{
+    border: 2px solid;
+}
+th:hover{
+     background-color: rgb(229, 255, 0);
+     font-size: large; 
+     color: rgb(25, 0, 255); 
+     border: azure solid;
+     
+}

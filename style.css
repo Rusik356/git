@@ -1,13 +1,43 @@
 body{
-    background-color: rgb(9, 255, 0);
-    text-align: center;
+    
+    background-color: rgba(255, 108, 10, 0.74);
+    
 }
-.img{
+.main-item{
+    width: 20%;
+    height: 100px;
+    background-color: rgb(138, 95, 255);
+    margin: 10px;
     text-align: center;
+    justify-content: space-around;
+    border-radius: 2%;
+
 }
+
 p{
+    color: coral;
     text-align: center;
+    justify-content: space-around;
 }
-ul{
-    list-style-type: none;
-}
+ .main{
+     display: flex;
+     justify-content: space-around;
+     flex-wrap: wrap-reverse;
+ }
+ h1{
+    text-align: center;
+    color: white;
+ }
+ a:hover{
+     color: white;
+ }
+ 
+ a:visited{
+     color: rgb(255, 255, 255);
+ }
+ a:active{
+     color: rgb(0, 46, 253);
+ }
+
+ 
+

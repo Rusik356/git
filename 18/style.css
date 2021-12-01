@@ -1,0 +1,18 @@
+.card-text{
+    max-height: 75px;
+    overflow: hidden;
+}
+p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.float{
+    float: right;
+}
+.card-img-top{
+   height:  250px;
+}
+.badge{
+width: 70px;
+
+}

@@ -69,12 +69,61 @@
      padding-left:30px ;
  }
  .he5{
+    display: flex;
   text-align: center;
   
     padding: 0px 20px;
     border-left: solid 1px  #E2E2E2;
+    
  }
- .r{
-  
- }
- 
+.he5>h3{
+    text-emphasis-color:  #393939;
+    font-family: Suisse Intl Trial;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 21px;
+text-align: center;
+}
+.he6{
+    width: 295px;
+    display: flex;
+    justify-content: center;
+    background-color:  #EFF3F6;
+    
+}
+input{
+    height: 55px;
+    width: 240px;
+    background-color: #EFF3F6;
+    padding-left: 20px;
+   
+}
+
+.t{
+    width: 55px;
+    height: 55px;
+    background-color:  #DD4053;
+    
+}
+.t>img{
+    
+    padding: 17px;
+}
+
+.he7{
+    width: 295px;
+    display: flex;
+    justify-content: center;
+    background-color:  #EFF3F6;
+    
+}
+.y{
+    width: 55px;
+    height: 55px;
+    background-color:   #4AD295;    
+}
+.y>img{
+    
+    padding: 17px;
+}

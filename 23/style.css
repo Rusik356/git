@@ -148,7 +148,7 @@ h2{
     height: 80px;
     
 }
-ul{
+.nav>ul{
     position: relative;
     display: flex;
     justify-content: space-around;
@@ -197,10 +197,7 @@ ul li:hover>ul{
 .romb{
     height: 600px;
 }
-.futer{
-    display: flex;
-    background-color: rgb(255, 0, 242);
-}
+
 .b>img{   
     height: 86px;
     width: 156px;
@@ -209,4 +206,67 @@ ul li:hover>ul{
     
     
 
+}
+.yr{
+    padding-top: 150px ;
+    padding-left: 200px;
+    background-image: url(./276398231\ 1.svg );
+    background-size: cover;
+    height: 490px;
+    
+}
+.propusk{
+    height: 200px;
+}
+
+
+.footer{
+    height: 200px;
+}
+.footer-top{
+    height: 100px;
+  
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 200px;
+}
+.footer-bottom{
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 200px;
+}
+.footer-item{
+    width: 150px;
+   
+}
+li{
+    list-style-type: none;
+}
+a{
+ text-decoration: none;
+ color:  #3E3E3E;
+ 
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 19px;
+text-align: left;
+}
+.footer-bom{
+    color: #3E3E3E;
+
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    text-align: left;
+}
+.footer-pop{
+    height: 150px;
+    
+}
+.bebra{
+    
 }
